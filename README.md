@@ -13,9 +13,5 @@ Primera Clase EXTENSIONES DE PARA VSCODE EN RUBY
 
 VSCode Ruby : No va permitir en la configuración que pueda leer código
 
-ruby-rubocop : Identar y orden en el código
-
-Ruby Solargraph: I.A en el Código de Ruby
-
 Material Icon Theme( Para los Iconos)
 
